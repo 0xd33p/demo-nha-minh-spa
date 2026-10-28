@@ -1,5 +1,5 @@
 :root{--main:#c8571f;--main-d:#a8441480;--ink:#2b1d16;--mut:#6f5a4d;--cream:#fbf5ee;--sand:#f3e7da;--wood:#7a4a2b;--r:18px;--sh:0 14px 40px rgba(70,35,15,.14)}
-*{box-sizing:border-box}html{scroll-behavior:smooth}
+*{box-sizing:border-box}html{scroll-behavior:smooth;background:#2b1d16}
 body{margin:0;font-family:"Be Vietnam Pro",system-ui,sans-serif;color:var(--ink);background:var(--cream);line-height:1.6;-webkit-font-smoothing:antialiased;padding-bottom:64px}
 img{max-width:100%;display:block}a{color:var(--main)}
 .wrap{width:min(1140px,100% - 40px);margin:auto}
